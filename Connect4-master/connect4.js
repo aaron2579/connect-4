@@ -1,5 +1,3 @@
-
-
 let playerRed = "R";
 let playerYellow = "Y";
 let currPlayer = playerRed;
